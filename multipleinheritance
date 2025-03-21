@@ -1,0 +1,29 @@
+package com.demo;
+
+public interface MultipleInheritance {
+public void method();
+public void glass();
+
+
+
+
+
+
+
+}
+interface Parent3{
+	public void method();
+	public void glass();
+	
+}
+interface Parent4{
+	public void method();
+	public void glass();
+	
+}
+interface Parent5{
+	public void method();
+	public void glass();
+	
+}
+

@@ -1,0 +1,16 @@
+package com.demo;
+
+public class MultipleInheritance2 {
+	public static void main(String args[]) {
+		MultipleInheritance x=new MultipleInheritance() {
+			
+		public void method() {
+			
+		}
+		public void glass() {
+			
+		}
+	};
+	}
+}
+
